@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "独走",
+  "base_artist": "巡巡",
+  "createdAt": "2026-01-08T17:07:13.591801Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "独走",
+      "artist": "巡巡",
+      "has_synced": false,
+      "path": "select/pl_01_独走_巡巡.txt"
+    }
+  ]
+}
